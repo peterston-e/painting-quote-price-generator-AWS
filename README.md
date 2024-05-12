@@ -1,4 +1,6 @@
-#Plan
+# DeMask
+
+## Plan
 
 - get a PostgreSQL db up and running on AWS
 - connect to the db
@@ -6,3 +8,10 @@
 
 Why choose PostgreSQL
 Why AWS
+
+| REST API | SQL    |
+| -------- | ------ |
+| Create   | INSERT |
+| Read     | SELECT |
+| Update   | UPDATE |
+| Delete   | DELETE |
